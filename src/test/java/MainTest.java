@@ -6,6 +6,6 @@ public class MainTest {
     @Test
     public void test01() {
         int numeroEsperado = 2;
-        assertEquals(numeroEsperado, 2);
+        assertEquals(numeroEsperado, 1);
     }
 }
